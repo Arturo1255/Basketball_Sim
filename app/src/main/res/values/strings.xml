@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basketball Sim</string>
+    <string name="home_team">Home Team</string>
+    <string name="away_team">Away Team</string>
+    <string name="default_score">0</string>
+    <string name="playButton">Play Game</string>
+</resources>
