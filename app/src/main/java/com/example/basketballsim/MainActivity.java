@@ -1,3 +1,11 @@
+/*
+@author Arturo Andazola Trevizo
+@version 1.0
+
+
+
+
+ */
 package com.example.basketballsim;
 
 import androidx.appcompat.app.AppCompatActivity;
